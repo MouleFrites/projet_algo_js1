@@ -45,7 +45,7 @@
 
 #reseaux {
   position: relative;
-  margin-top: -65px;
+  margin-top: -110px;
 }
 
 #txt {
@@ -102,6 +102,12 @@ margin-top: -10px;
 }
 
 #txt3 {
+  background-color: red;
+  position: relative;
+  margin-left: 730px;
+}
+
+#txt4 {
   background-color: red;
   position: relative;
   margin-left: 730px;
