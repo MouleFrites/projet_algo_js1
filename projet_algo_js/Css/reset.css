@@ -52,7 +52,14 @@
 width:50px;
 height:50px;
 position: relative;
-margin-bottom: -50px;
+margin-bottom: 70px;
+margin-left: 100px;
+}
+
+#fb {
+  position: relative;
+  margin-left: 600px;
+  margin-top: 50px;
 }
 
 .images_twitter {
@@ -63,6 +70,12 @@ position: relative;
 margin-bottom: -100px;
 }
 
+#twi {
+  position: relative;
+  margin-left: 600px;
+  margin-top: 50px;
+}
+
 .images_insta {
 
 width:50px;
@@ -70,4 +83,11 @@ height:50px;
 position: relative;
 margin-bottom: -150px;
 
+}
+
+
+#ins {
+  position: relative;
+  margin-left: 600px;
+  margin-top: 50px;
 }
