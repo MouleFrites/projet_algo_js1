@@ -1,32 +1,38 @@
 
 #page {
+
 	width: 1900px;
 	height: 900px;
 	border: solid 1px black;
+		display: inline-block;
 
 }
 #header {
+
 	width: 1850px;
-	height: 60px;
+	height: 100px;
 	border: solid 1px blue;
 	margin-left: 25px;
 }
 
 #menu {
-	padding: 0; margin: 0;
+	font-family: 'Ubuntu', sans-serif;
   text-align: center;
 
 	}
 
 #menu li {
-	display: inline;
+	width: 100px;
+	height: 30px;
+	display: inline-block;
 	list-style: none;
-	list-style: none;
+	border: solid 1px red;
+
 	}
 
-#menu a {
-	display:inline-block;
-	margin: 0 30px;
+.logo {
+  width: 100px;
+  height: 100px;
 }
 
 div#footer {
@@ -42,6 +48,7 @@ div#txt {
 }
 
 .images_facebook {
+
 width:50px;
 height:50px;
 position: relative;
@@ -49,6 +56,7 @@ margin-bottom: -50px;
 }
 
 .images_twitter {
+
 width:40px;
 height:40px;
 position: relative;
@@ -56,6 +64,7 @@ margin-bottom: -100px;
 }
 
 .images_insta {
+
 width:50px;
 height:50px;
 position: relative;
