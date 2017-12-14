@@ -43,6 +43,11 @@
 
 }
 
+#reseaux {
+  position: relative;
+  margin-top: -65px;
+}
+
 #txt {
   text-align: center;
 }
@@ -52,13 +57,13 @@
 width:50px;
 height:50px;
 position: relative;
-
+margin-top:-10px;
 }
 
 #fb {
   position: relative;
   margin-left: 600px;
-  margin-top: 50px;
+  margin-top: -10px;
 }
 
 .images_twitter {
@@ -66,13 +71,13 @@ position: relative;
 width:40px;
 height:40px;
 position: relative;
-
+margin-top: -10px;
 }
 
 #twi {
   position: relative;
   margin-left: 600px;
-  margin-top: 50px;
+  margin-top: -10px;
 }
 
 .images_insta {
@@ -80,16 +85,27 @@ position: relative;
 width:50px;
 height:50px;
 position: relative;
-
+margin-top: -10px;
 }
 
 
 #ins {
   position: relative;
   margin-left: 600px;
-  margin-top: 50px;
+  margin-top: -10px;
+}
 
+#txt2 {
+  background-color: red;
+  position: relative;
+  margin-left: 730px;
+}
 
+#txt3 {
+  background-color: red;
+  position: relative;
+  margin-left: 730px;
+}
 =======
 #logo{
 	float:left;
