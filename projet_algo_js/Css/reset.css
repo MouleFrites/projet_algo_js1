@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #page {
 	width: 1900px;
 	height: 900px;
@@ -15,16 +15,21 @@
 #menu {
 	padding: 0; margin: 0;
   text-align: center;
-=======
->>>>>>> 37e4facb947ef2323b22b7af24db996ee6a42713
+
+.images_facebook {
+width:50px;
+height:50px;
+position: relative;
 }
 
-#menu li {
-	display: inline;
-	list-style: none;
+.images_twitter {
+width:40px;
+height:40px;
+position: relative;
 }
 
-#menu a {
-	display:inline-block;
-	margin: 0 30px;
+.images_insta {
+width:50px;
+height:50px;
+position: relative;
 }
