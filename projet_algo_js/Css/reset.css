@@ -9,24 +9,23 @@
 }
 #header {
 
-	width: 1450px;
-	height: 100px;
-	border: solid 1px blue;
-	margin-left: 25px;
+	width: 1500px;
+	border-bottom:solid 1px grey;
 }
 
 #menu {
 	font-family: 'Ubuntu', sans-serif;
   text-align: center;
+  font-size: 30px;
 
 	}
 
 #menu li {
-	width: 100px;
-	height: 30px;
+	width: 200px;
+	height: 50px;
 	display: inline-block;
 	list-style: none;
-	border: solid 1px red;
+
 
 	}
 
@@ -116,13 +115,18 @@ margin-top: -10px;
   margin-left: 730px;
 }
 
+<<<<<<< HEAD
 .image_logo2 {
   width:1150px;
   height: 1150px;
 }
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4e47a1088d383c5810142e96c9fc29f7c401119f
+=======
+>>>>>>> 26c2fcca15072ed0ee896e5a6374555edcb881ba
 #logo{
 	float:left;
-	padding: 10px 10px 10px 10px
->>>>>>> 994aa7f8533c67a1d7aeb6e95da02b2fa1056d3a
 }
