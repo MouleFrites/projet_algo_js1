@@ -1,3 +1,65 @@
+<<<<<<< HEAD
 #header{
   display: inline-block;
+=======
+
+#page {
+
+	width: 1900px;
+	height: 900px;
+	border: solid 1px black;
+
+}
+#header {
+
+	width: 1850px;
+	height: 60px;
+	border: solid 1px blue;
+	margin-left: 25px;
+}
+
+#menu {
+
+  text-align: center;
+
+	}
+
+#menu li {
+
+	width: 100px;
+	height: 30px;
+	display: inline-block;
+	list-style: none;
+	border: solid 1px red;
+
+	}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.images_facebook {
+
+width:50px;
+height:50px;
+position: relative;
+
+}
+
+.images_twitter {
+
+width:40px;
+height:40px;
+position: relative;
+
+}
+
+.images_insta {
+
+width:50px;
+height:50px;
+position: relative;
+
+>>>>>>> 38419cf9c2a5feb7280ad0e94a2a07bc578a9fc1
 }
