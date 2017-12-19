@@ -8,11 +8,6 @@
 }
 #header {
 
-	width: 1450px;
-	height: 100px;
-	border: solid 1px blue;
-	margin-left: 25px;
-	display: inline-block;
 	width: 1500px;
 	border-bottom:solid 1px grey;
 }
@@ -132,5 +127,3 @@ margin-top: -10px;
 
 #logo{
 	float:left;
-
-}
