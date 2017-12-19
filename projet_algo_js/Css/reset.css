@@ -10,7 +10,7 @@
 #header {
 
 	width: 1450px;
-	height: 100px;
+	height: 120px;
 	border: solid 1px blue;
 	margin-left: 25px;
 }
@@ -27,7 +27,7 @@
 	display: inline-block;
 	list-style: none;
 	border: solid 1px red;
-
+	vertical-align: middle;
 	}
 
 .logo {
@@ -106,9 +106,9 @@ margin-top: -10px;
   position: relative;
   margin-left: 730px;
 }
-=======
+
 #logo{
 	float:left;
 	padding: 10px 10px 10px 10px
->>>>>>> 994aa7f8533c67a1d7aeb6e95da02b2fa1056d3a
+
 }
