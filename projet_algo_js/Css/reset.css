@@ -1,10 +1,11 @@
-
+a {
+	font-size: 15px;
+}
 #page {
 
 	width: 1500px;
-	height: 900px;
+	height: 1300px;
 	border: solid 1px black;
-		display: inline-block;
 
 }
 #header {
@@ -12,7 +13,6 @@
 	width: 1450px;
 	height: 120px;
 	border: solid 1px blue;
-	margin-left: 25px;
 }
 
 #menu {
@@ -21,12 +21,17 @@
 
 	}
 
-#menu li {
-	width: 100px;
-	height: 30px;
+#menu p {
+	width: 150px;
+	height: 40px;
 	display: inline-block;
 	list-style: none;
 	border: solid 1px red;
+<<<<<<< HEAD
+=======
+	vertical-align: middle;
+	font-size: 25px;
+>>>>>>> daae0f4ba4e973379344176171d2ba45018244c7
 
 	}
 
@@ -34,65 +39,36 @@
   width: 100px;
   height: 100px;
 }
-
+footer {
+	position: absolute;
+	up: 100px;
+}
 #footer {
   height: 300px;
   background-color: grey;
-  position: relative;
-  margin-top: 538px;
+  position: absolute;
+	bottom: 100px;
 
 }
 
 #reseaux {
-  position: relative;
-  margin-top: -65px;
+
+	display: inline-block;
+	position: absolute;
+	bottom: 100px;
+	left:400px;
+	border: solid 1px blue;
 }
 
 #txt {
   text-align: center;
 }
 
-.images_facebook {
+.images_social {
 
 width:50px;
 height:50px;
-position: relative;
-margin-top:-10px;
-}
 
-#fb {
-  position: relative;
-  margin-left: 600px;
-  margin-top: -10px;
-}
-
-.images_twitter {
-
-width:40px;
-height:40px;
-position: relative;
-margin-top: -10px;
-}
-
-#twi {
-  position: relative;
-  margin-left: 600px;
-  margin-top: -10px;
-}
-
-.images_insta {
-
-width:50px;
-height:50px;
-position: relative;
-margin-top: -10px;
-}
-
-
-#ins {
-  position: relative;
-  margin-left: 600px;
-  margin-top: -10px;
 }
 
 #txt2 {
