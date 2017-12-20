@@ -1,4 +1,4 @@
-body {
+<body {
 
 
 }
@@ -51,11 +51,11 @@ body {
 
 #defil_img {
   width: 1450px;
-  height: 600px;
+  height: 663px;
   position: absolute;
   top: 150px;
   left: 25px;
-  border: solid 2px black;
+  
 }
 #intro {
   width: 750px;
@@ -63,7 +63,8 @@ body {
   font-size: 25px;
   position: absolute;
   top: 850px;
-  left: 500px;
+  left: 375px;
+  text-align: center;
 }
 #footer {
   width: 1450px;
@@ -95,4 +96,10 @@ body {
 .images_social {
   width: 50px;
   height: 50px;
+}
+
+
+.noel {
+  width: 1000px;
+  margin-left: 200px;
 }
