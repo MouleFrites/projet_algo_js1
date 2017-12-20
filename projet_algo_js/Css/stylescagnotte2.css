@@ -1,6 +1,5 @@
 body {
 
-
 }
 #page {
   width: 1500px;
@@ -8,6 +7,7 @@ body {
   position: absolute;
 	display: inline-block;
   font-family: 'Ubuntu', sans-serif;
+
 }
 #header {
 	width: 1450px;
@@ -39,15 +39,6 @@ body {
 	display: inline-block;
 	font-size: 25px;
 	}
-
-  .color {
-    color: #ef416a;
-  }
-
-  .colors {
-    color: #990099;
-  }
-
 #cagnotte {
   width: 1400px;
   height: 1100px;
@@ -55,58 +46,30 @@ body {
   top: 150px;
   left: 50px;
 }
-
-.mescagnottes {
-  padding: 0px 100px 0px;
-  font-size: 50px;
-  color: #ef416a;
-
-}
-
-#cagnotte1 {
-  width: 300px;
-  height: 400px;
+#imgcagnotte {
+  width: 720px;
+  height: 405px;
   position: absolute;
-  top: 150px;
-  left: 100px;
+  top: 100px;
+  left:100px;
   border: solid 2px black;
 }
-#cagnotte2 {
+#statuscagnotte{
   width: 300px;
-  height: 400px;
+  height: 800px;
   position: absolute;
-  top: 150px;
-  left: 550px;
-border: solid 2px black;
-}
-#cagnotte3 {
-  width: 300px;
-  height: 400px;
-  position: absolute;
-  top: 150px;
+  top: 100px;
   right: 100px;
   border: solid 2px black;
 }
-#newcagnotte {
-  width: 300px;
-  height: 400px;
+#participantcagnotte {
+  width:800px;
+  height:400px;
   position: absolute;
-  top: 650px;
+  top: 600px;
   left: 100px;
   border: solid 2px black;
-}
-#newcagnotte img {
-  width: 200px;
-  height: 200px;
-  position: absolute;
-  bottom: 25px;
-  left:50px;
-}
 
-.creercagnotte {
-  text-align: center;
-  font-size: 20px;
-  color: #ef416a;
 }
 #footer {
   width: 1450px;
