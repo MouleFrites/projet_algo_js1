@@ -108,3 +108,12 @@
   width: 1000px;
   margin-left: 200px;
 }
+
+.boutoncreer {
+	border:none;
+	padding:10px 10px 10px 10px;
+	border-radius:8px;
+	background: #990099;
+	font:bold 13px Arial;
+	color:#fff;
+}
