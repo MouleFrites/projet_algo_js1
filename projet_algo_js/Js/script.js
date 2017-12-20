@@ -10,3 +10,7 @@ function headcagnotte(){
   document.location.href="./cagnotte.html";
   return false;
 }
+function cagnotte(){
+  document.location.href="./cagnotte2.html";
+  return false;
+}
