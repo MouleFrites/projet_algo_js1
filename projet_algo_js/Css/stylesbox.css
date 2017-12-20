@@ -4,7 +4,7 @@ body {
 }
 #page {
   width: 1500px;
-	height: 3000px;
+	height: 2400px;
   position: absolute;
 	display: inline-block;
   font-family: 'Ubuntu', sans-serif;
@@ -47,21 +47,114 @@ body {
   left: 25px;
   border: solid 2px black;
 }
-#intro {
-  width: 750px;
-  height: 250px;
-  font-size: 25px;
+#typebox {
+  width: 1400px;
+  height: 1300px;
   position: absolute;
-  top: 850px;
-  left: 500px;
+  top: 800px;
+  left: 50px;
+  border: solid 1px green;
 }
+.test {
+  width: 700px;
+  height: 300px;
+  border: solid 2px black;
+}
+
+#type1 div {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+#type1 h1 {
+  width: 210px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  right: 215px;
+  border: solid 1px blue;
+}
+#type1 p {
+  width: 600px;
+  height: 200px;
+  text-align: right;
+  position: absolute;
+  top: 70px;
+  right: 10px;
+  border: solid 1px green;
+}
+#type2 div {
+  position: absolute;
+  top: 325px;
+  left: 695px;
+}
+#type2 h1 {
+  width: 210px;
+  height: 50px;
+  position: absolute;
+  top: 325px;
+  left: 235px;
+}
+#type2 p {
+  width: 600px;
+  height: 200px;
+  text-align: left;
+  position: absolute;
+  top: 395px;
+  left: 10px;
+  border: solid 1px green;
+}
+#type3 div {
+  position: absolute;
+  top: 650px;
+  left: 0px;
+}
+#type3 h1 {
+  width: 210px;
+  height: 50px;
+  position: absolute;
+  top: 650px;
+  right: 215px;
+}
+#type3 p {
+  width: 600px;
+  height: 200px;
+  text-align: right;
+  position: absolute;
+  top: 720px;
+  right: 10px;
+  border: solid 1px green;
+}
+#type4 div {
+  position: absolute;
+  top: 975px;
+  left: 695px;
+}
+#type4 h1 {
+  width: 210px;
+  height: 50px;
+  position: absolute;
+  top: 975px;
+  left: 235px;
+}
+#type4 p {
+  width: 600px;
+  height: 200px;
+  text-align: left;
+  position: absolute;
+  top: 1045px;
+  left: 10px;
+  border: solid 1px green;
+}
+
+
 #footer {
   width: 1450px;
   height: 300px;
   background-color: grey;
   position: absolute;
-  bottom: 20px;
-  left: 25px;
+  top: 1400px;
+  left: -25px;
 }
 #contact {
   width: 400px;
