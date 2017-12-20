@@ -24,6 +24,7 @@ body {
   width: 120px;
   height: 120px;
 }
+
 #menu {
   width: 500px;
   height: 60px;
@@ -39,6 +40,15 @@ body {
 	display: inline-block;
 	font-size: 25px;
 	}
+
+  .color {
+    color: #ef416a;
+  }
+
+  .colors {
+    color: #990099;
+  }
+
 #defil_img {
   width: 1450px;
   height: 600px;
