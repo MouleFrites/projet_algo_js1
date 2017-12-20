@@ -45,6 +45,11 @@
     color: #ef416a;
   }
 
+  .color1 {
+    color: #ef416a;
+    text-align: center;
+}
+
   .colors {
     color: #990099;
   }
@@ -54,15 +59,15 @@
   height: 663px;
   position: absolute;
   top: 150px;
-  left: 25px;
-  
+  left: 40px;
+
 }
 #intro {
   width: 750px;
   height: 250px;
   font-size: 25px;
   position: absolute;
-  top: 850px;
+  top: 900px;
   left: 375px;
   text-align: center;
 }
