@@ -4,27 +4,30 @@
 	width: 1500px;
 	height: 1300px;
 	border: solid 1px black;
+		display: inline-block;
 
 }
 #header {
 
-	width: 1500px;
-	border-bottom:solid 1px grey;
+	width: 1450px;
+	height: 120px;
+	border: solid 1px blue;
+	margin-left: 25px;
 }
 
 #menu {
 	font-family: 'Ubuntu', sans-serif;
   text-align: center;
-  font-size: 30px;
 
 	}
 
 #menu li {
-	width: 200px;
-	height: 50px;
+	width: 100px;
+	height: 30px;
 	display: inline-block;
 	list-style: none;
-
+	border: solid 1px red;
+	vertical-align: middle;
 
 	}
 
@@ -33,24 +36,25 @@
   height: 100px;
 }
 
-
 #footer {
   height: 300px;
   background-color: grey;
   position: relative;
+<<<<<<< HEAD
   margin-bottom: 5px;
+=======
+  margin-top: 538px;
+>>>>>>> 214523a48be633c38fffad5c6931cbedecaedd74
 
 }
 
 #reseaux {
   position: relative;
-  margin-top: -135px;
+  margin-top: -65px;
 }
 
 #txt {
   text-align: center;
-  position: relative;
-  margin-top: -100px;
 }
 
 .images_facebook {
@@ -97,19 +101,13 @@ margin-top: -10px;
 }
 
 #txt2 {
-  background-color: grey;
+  background-color: red;
   position: relative;
   margin-left: 730px;
 }
 
 #txt3 {
-  background-color: grey;
-  position: relative;
-  margin-left: 730px;
-}
-
-#txt4 {
-  background-color: grey;
+  background-color: red;
   position: relative;
   margin-left: 730px;
 }
@@ -117,9 +115,5 @@ margin-top: -10px;
 #logo{
 	float:left;
 	padding: 10px 10px 10px 10px
-}
 
-.image_logo2 {
-  width:1150px;
-  height: 1150px;
 }
