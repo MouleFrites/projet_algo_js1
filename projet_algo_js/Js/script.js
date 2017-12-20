@@ -1,4 +1,12 @@
 function headacceuil(){
-  window.alert("bite");
+  window.alert("test");
+  return false;
+}
+function headbox(){
+  window.alert("test");
+  return false;
+}
+function headcagnotte(){
+  window.alert("test");
   return false;
 }
