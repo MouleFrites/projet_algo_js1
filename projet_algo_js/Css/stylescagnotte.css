@@ -39,13 +39,28 @@ body {
 	display: inline-block;
 	font-size: 25px;
 	}
+
+  .color {
+    color: #ef416a;
+  }
+
+  .colors {
+    color: #990099;
+  }
+
 #cagnotte {
   width: 1400px;
   height: 1100px;
   position: absolute;
   top: 150px;
   left: 50px;
-  border: solid 1px red;
+}
+
+.mescagnottes {
+  padding: 0px 100px 0px;
+  font-size: 50px;
+  color: #ef416a;
+
 }
 
 #cagnotte1 {
@@ -86,6 +101,12 @@ border: solid 2px black;
   position: absolute;
   bottom: 25px;
   left:50px;
+}
+
+.creercagnotte {
+  text-align: center;
+  font-size: 20px;
+  color: #ef416a;
 }
 #footer {
   width: 1450px;
